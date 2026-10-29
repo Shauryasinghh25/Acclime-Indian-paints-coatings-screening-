@@ -1,0 +1,16 @@
+Metric,Value,Notes
+Total Discovered Candidates (Raw Universe),142,"Across Screener, MCA, ZaubaCorp, CRISIL, directories"
+Total Clean Unique Companies,123,Deduplicated canonical entities with verified legal status
+Likely & Verified Manufacturers,121,Verified with proprietary formulation & plant facilities
+Excluded Pure Traders / Distributors,2,Excluded under scope mandate
+Companies with Verified Manufacturing Plants,121,At least one distinct plant address & capacity identified
+Total Identified Manufacturing Facilities,126,Across 14 Indian states and industrial corridors
+Companies with Verified Financial Statements,123,"P&L, Balance Sheet, Borrowings, Net Worth"
+Total Fiscal Year Financial Observations,276,Up to 3-year historical audited trends
+"Companies Meeting Revenue Mandate (< ₹1,000 Cr)",113,Verified annual revenue below threshold
+"Companies Exceeding Mandate (> ₹1,000 Cr)",10,"Mandate PASS benchmarks (Asian Paints, Berger, Nerolac, Indigo, Akzo, JSW)"
+Acquisition SHORTLIST Targets,111,"High strategic fit, verified plants, revenue < ₹1,000 Cr"
+Acquisition PASS Exclusions,12,Exceeded revenue threshold or pure traders
+PENDING VERIFICATION Candidates,0,Requires bilateral plant/ROC diligence
+Total Traceable Evidence Register Rows,648,100% field claims mapped to URLs and verification status
+Evidence Traceability Percentage,100.0%,All material facts cited with URLs and excerpts
