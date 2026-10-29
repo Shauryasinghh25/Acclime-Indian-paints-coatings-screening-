@@ -76,6 +76,7 @@ d:/Project2/
 ├── dashboard.py                  # Streamlit interactive visual analytics dashboard
 ├── paints_database.db            # Production SQLite database (123 companies, 1,932 observations)
 ├── requirements.txt              # Production dependency specifications
+├── pytest.ini                    # Pytest configuration (pythonpath = .)
 ├── .gitignore                    # Git version control ignore rules
 └── README.md                     # Comprehensive technical & business documentation
 ```
@@ -237,10 +238,13 @@ d:/Project2/
 #### 21. `requirements.txt`
 - **What it Does:** Lists exact production Python package dependencies required to run the pipeline, test suite, and dashboard (`streamlit`, `pandas`, `plotly`, `requests`, `beautifulsoup4`, `pdfplumber`, `openpyxl`, `pytest`).
 
-#### 22. `.gitignore`
+#### 22. `pytest.ini`
+- **What it Does:** Configures Pytest test runner options, setting `pythonpath = .` to ensure automated test collection and execution across `tests/` without requiring manual environment path modification.
+
+#### 23. `.gitignore`
 - **What it Does:** Configures Git version control ignore rules, excluding compiled bytecode (`__pycache__`, `*.pyc`), test caches (`.pytest_cache`), virtual environments (`.venv`), and temporary scratch logs.
 
-#### 23. `paints_database.db`
+#### 24. `paints_database.db`
 - **What it Does:** The production SQLite database (in WAL mode) storing all 9 structured tables: 142 discovery records, 123 master companies, 1,932 financial observations across 276 fiscal statements, 126 plant facilities, 264 ownership observations, and 648 evidence records.
 
 ---
