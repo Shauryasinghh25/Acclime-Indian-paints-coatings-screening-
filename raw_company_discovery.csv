@@ -1,0 +1,143 @@
+discovery_id,candidate_name,raw_url,discovery_source,search_category,city,state,initial_classification,status,created_at
+1,Sirca Paints India Limited,https://www.screener.in/company/SIRCA/,Screener.in / NSE,wood_coatings,New Delhi,Delhi,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+2,Shalimar Paints Limited,https://www.screener.in/company/SHALPAINTS/consolidated/,Screener.in / BSE/NSE,decorative_industrial,Gurugram,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+3,Kamdhenu Ventures Limited,https://www.screener.in/company/KAMOPAINTS/consolidated/,Screener.in / NSE,decorative,Gurugram,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+4,Retina Paints Limited,https://www.screener.in/company/543902/,Screener.in / BSE SME,decorative_architectural,Hyderabad,Telangana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+5,Siddhika Coatings Limited,https://www.screener.in/company/SIDDHIKA/,Screener.in / NSE Emerge,specialty_architectural,New Delhi,Delhi,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+6,Metal Coatings (India) Limited,https://www.screener.in/company/531810/,Screener.in / BSE,coil_and_metal_coatings,Faridabad,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+7,Organic Coatings Limited,https://www.screener.in/company/531157/,Screener.in / BSE,specialty_printing_coatings,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+8,Multilac Surface Coating (I) Limited,https://www.screener.in/company/526763/,Screener.in / BSE,surface_coatings,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+9,Jyoti Resins and Adhesives Limited,https://www.screener.in/company/JYOTIRES/,Screener.in / BSE,synthetic_resins_coatings,Ahmedabad,Gujarat,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+10,Sreechem Resins Limited,https://www.screener.in/company/514248/,Screener.in / BSE,specialty_resins_coatings,Kolkata,West Bengal,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+11,IVP Limited,https://www.screener.in/company/IVP/,Screener.in / BSE/NSE,foundry_coatings_resins,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+12,Grauer & Weil (India) Limited,https://www.screener.in/company/GRAUWEIL/,Screener.in / BSE/NSE,protective_industrial_coatings,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+13,Grand Polycoats Company Private Limited,https://www.grandpolycoats.com,CRISIL Rating / ZaubaCorp,heavy_duty_protective_marine,Vadodara,Gujarat,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+14,Sheenlac Paints Limited,https://www.sheenlac.com,CRISIL Rating / The Company Check,decorative_wood_coatings,Chennai,Tamil Nadu,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+15,Surfa Coats (India) Private Limited,https://www.surfacoatspaints.in,MCA / ZaubaCorp / Directory,decorative_architectural,Bengaluru,Karnataka,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+16,Coatings and Coatings (India) Private Limited,https://www.crisilratings.com,CRISIL Ratings,industrial_wood_coatings,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+17,Marpol Private Limited,https://www.marpol.com,Industry Directory / IPCA,powder_coatings,Ponda,Goa,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+18,Advance Paints Private Limited,https://www.advancepaints.com,Industry Directory / ZaubaCorp,industrial_protective_coatings,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+19,Apollo Paints Private Limited,https://www.apollopaints.com,ZaubaCorp / Industry Directory,decorative_eco_friendly,Bengaluru,Karnataka,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+20,Western India Paint & Colour Company Private Limited,https://www.wipcopaints.com,Trade Directory / Indiamart,industrial_primers_enamels,Chennai,Tamil Nadu,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+21,Sharp Coating Private Limited,https://www.sharppowdercoatingpowder.com,Industry Search / Indiamart,powder_coatings,Faridabad,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+22,Nivera Paints (India) Private Limited,https://www.niverapaints.in,Industry Search / Indiamart,powder_coatings,Faridabad,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+23,Sirohi Chemtech Private Limited,https://www.sirohichemtech.com,Industry Search,powder_coatings,Greater Noida,Uttar Pradesh,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+24,Haryana Coating Private Limited,https://www.haryanacoating.com,Industry Directory,powder_coatings_automotive,Gurugram,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+25,Maharani Innovative Paints Private Limited,https://www.maharanipaints.com,Industry Search / ZaubaCorp,industrial_powder_coatings,Faridabad,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+26,Rini Powder Paints Private Limited,https://www.rinipowder.com,Industry Directory,powder_coatings,Bengaluru,Karnataka,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+27,Satva Coating Private Limited,https://www.satvacoatings.com,GIDC Directory,protective_floor_coatings,Ahmedabad,Gujarat,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+28,Protective Paints Private Limited,https://www.protectivepaints.com,GIDC Directory,industrial_zinc_primers,Vadodara,Gujarat,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+29,Aakar Paints Private Limited,https://www.aakarpaints.com,GIDC Directory,metal_coatings_pu,Ahmedabad,Gujarat,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+30,Kirloskar Corrocoat Private Limited,https://www.kirloskarpumps.com,Corporate Disclosures / JV,heavy_duty_corrosion_coatings,Pune,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+31,Gujarat Colours & Coatings Private Limited,https://www.gujaratcolours.in,MIDC Directory,industrial_pu_coatings,Wada,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+32,Korrocoat Polymers Private Limited,https://www.korrocoat.com,MIDC Directory,protective_anti_corrosive,Pune,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+33,Espee Coatings Private Limited,https://www.espeecoatings.com,MIDC Directory,industrial_ceramic_coatings,Amravati,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+34,Almega Coatings Private Limited,https://www.infomerics.com,Infomerics Rating Rationale,specialty_fusion_coatings,Vadodara,Gujarat,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+35,Sonalac Paints and Coatings Limited,https://www.careratings.com,CARE Ratings,decorative_architectural,Ludhiana,Punjab,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+36,Spectrum Paints Private Limited,https://www.spectrumpaints.com,Industry Directory,textured_architectural_coatings,New Delhi,Delhi,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+37,Gem Paints Private Limited,https://www.gempaints.com,Astral Disclosures / ZaubaCorp,decorative_architectural,Bengaluru,Karnataka,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+38,Snowcem Paints Private Limited,https://www.snowcempaints.com,Industry Directory / ZaubaCorp,exterior_cement_coatings,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+39,Asian Lacquers & Coatings Private Limited,https://www.asianlacquers.com,Trade Directory,industrial_wood_lacquers,Ludhiana,Punjab,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+40,Ukay Paints Private Limited,https://www.ukaypaints.com,Trade Directory,decorative_industrial,Solan,Himachal Pradesh,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+41,Asian Paints Limited,https://www.screener.in/company/ASIANPAINT/consolidated/,Screener.in / NSE,decorative_industrial_leader,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+42,Berger Paints India Limited,https://www.screener.in/company/BERGEPAINT/consolidated/,Screener.in / NSE,decorative_industrial_major,Kolkata,West Bengal,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+43,Kansai Nerolac Paints Limited,https://www.screener.in/company/KANSAINER/consolidated/,Screener.in / NSE,industrial_automotive_decorative,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+44,Indigo Paints Limited,https://www.screener.in/company/INDIGOPNTS/,Screener.in / NSE,decorative_architectural,Pune,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+45,Akzo Nobel India Limited,https://www.screener.in/company/500710/,Screener.in / BSE/NSE,decorative_dulux_specialty,Gurugram,Haryana,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+46,JSW Paints Private Limited,https://www.jswpaints.in,Corporate Disclosures,decorative_industrial_major,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+47,Pidilite Industries Limited,https://www.screener.in/company/PIDILITIND/consolidated/,Screener.in / NSE,waterproofing_adhesives_largecap,Mumbai,Maharashtra,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+48,Heetu Chemicals and Alkalies Limited,https://www.infomerics.com,Infomerics Rating Rationale,raw_material_trading_solvents,Mumbai,Maharashtra,TRADER_DISTRIBUTOR,DISCOVERED,2026-10-29 17:33:11
+49,Chemtrade Overseas Private Limited,https://www.infomerics.com,Infomerics Rating Rationale,chemical_importer_trader,New Delhi,Delhi,TRADER_DISTRIBUTOR,DISCOVERED,2026-10-29 17:33:11
+50,Premier Paints (India) Private Limited,https://www.premierpaints.com,MCA Master Data / Industry Directory,industrial_primers_enamels,Chennai,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+51,Titan Paints Private Limited,https://www.titanpaints.in,MCA Master Data / Industry Directory,decorative_industrial,Coimbatore,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+52,Classic Paints Private Limited,https://www.classicpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Coimbatore,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+53,Chemcoat India Private Limited,https://www.chemcoatindia.com,MCA Master Data / Industry Directory,industrial_protective_coatings,Kanchipuram,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+54,Protektol Coatings Private Limited,https://www.protektol.com,MCA Master Data / Industry Directory,heavy_duty_protective_marine,Sriperumbudur,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+55,Excel India Protective Paints Private Limited,https://www.excelpaints.com,MCA Master Data / Industry Directory,industrial_protective_coatings,Navi Mumbai,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+56,Kwality Paints & Coatings Private Limited,https://www.kwalitypaints.com,MCA Master Data / Industry Directory,industrial_coatings,Pune,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+57,Topcoat Paints Private Limited,https://www.topcoatpaints.com,MCA Master Data / Industry Directory,automotive_refinish,Pune,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+58,Hawks Paints & Coatings Private Limited,https://www.hawkspaints.com,MCA Master Data / Industry Directory,waterproofing_and_construction,Vasai,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+59,Teknovace Wood Coatings Private Limited,https://www.teknovace.com,MCA Master Data / Industry Directory,wood_coatings,Pune,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+60,Colourflair Powder Coatings Private Limited,https://www.colourflair.com,MCA Master Data / Industry Directory,powder_coatings,Nashik,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+61,Nerofix Private Limited,https://www.nerofix.in,MCA Master Data / Industry Directory,specialty_coatings_adhesives,Navi Mumbai,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+62,Neonscape Paints & Coatings Private Limited,https://www.neonscapepaints.com,MCA Master Data / Industry Directory,decorative_architectural,Ahmedabad,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+63,Polycoat Paints Private Limited,https://www.polycoatpaints.com,MCA Master Data / Industry Directory,protective_floor_coatings,Ahmedabad,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+64,Asian Finechem Coatings Private Limited,https://www.asianfinechem.com,MCA Master Data / Industry Directory,specialty_coatings,Morbi,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+65,Crest Speciality Resins & Coatings Private Limited,https://www.crestresins.com,MCA Master Data / Industry Directory,specialty_resins_coatings,Vadodara,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+66,True Coat Paints Private Limited,https://www.truecoatpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Ernakulam,Kerala,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+67,Cochin Paints India Private Limited,https://www.cochinpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Ernakulam,Kerala,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+68,Aishwarya Paints Private Limited,https://www.aishwaryapaints.com,MCA Master Data / Industry Directory,decorative_architectural,Kochi,Kerala,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+69,Wallmaax Paints Private Limited,https://www.wallmaax.com,MCA Master Data / Industry Directory,decorative_architectural,Perumbavoor,Kerala,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+70,Swatch Paints and Coatings Private Limited,https://www.swatchpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Hyderabad,Telangana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+71,Lancer Paints Private Limited,https://www.lancerpaints.com,MCA Master Data / Industry Directory,decorative_industrial,Hyderabad,Telangana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+72,Solvosol Paints Private Limited,https://www.solvosolpaints.com,MCA Master Data / Industry Directory,industrial_primers_enamels,Hyderabad,Telangana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+73,Rajasthan Paints Private Limited,https://www.rajasthanpaints.com,MCA Master Data / Industry Directory,decorative_industrial,Jaipur,Rajasthan,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+74,Swaraj Paints Private Limited,https://www.swarajpaintsindia.in,MCA Master Data / Industry Directory,industrial_automotive,Bhiwadi,Rajasthan,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+75,Acro Paints Limited,https://www.acropaints.net,MCA Master Data / Industry Directory,decorative_architectural,Bhiwadi,Rajasthan,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+76,Magpie Paints And Polymers Private Limited,https://www.magpiepaints.com,MCA Master Data / Industry Directory,decorative_architectural,Kanpur,Uttar Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+77,Eurotech Paints Private Limited,https://www.eurotechpaints.com,MCA Master Data / Industry Directory,decorative_industrial,Ghaziabad,Uttar Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+78,Creative Paints Private Limited,https://www.creativepaints.in,MCA Master Data / Industry Directory,decorative_architectural,Indore,Madhya Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+79,Manoram Paints Private Limited,https://www.manorampaints.com,MCA Master Data / Industry Directory,decorative_industrial,Indore,Madhya Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+80,Eversheen Paints Private Limited,https://www.eversheenpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Jalandhar,Punjab,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+81,Modern Colours Private Limited,https://www.moderncolours.co.in,MCA Master Data / Industry Directory,industrial_powder_coatings,Ludhiana,Punjab,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+82,Varna Coats Private Limited,https://www.varnacoats.com,MCA Master Data / Industry Directory,powder_coatings,Bengaluru,Karnataka,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+83,Sigmacoat India Private Limited,https://www.sigmacoat.com,MCA Master Data / Industry Directory,industrial_protective_coatings,Bengaluru,Karnataka,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+84,Vindhyachal Paints & Chemicals Private Limited,https://www.vindhyachalpaints.com,MCA Master Data / Industry Directory,decorative_industrial,Kolkata,West Bengal,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+85,P.C. Chanda & Company Private Limited,https://www.chandapaints.com,MCA Master Data / Industry Directory,industrial_protective_coatings,Kolkata,West Bengal,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+86,Jotun India Private Limited,https://www.jotun.com/in-en,MCA Master Data / Industry Directory,protective_marine_powder_major,Mumbai,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+87,PPG Asian Paints Private Limited,https://www.ppgasianpaints.com,MCA Master Data / Industry Directory,automotive_oem_industrial_major,Mumbai,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+88,Nippon Paint (India) Private Limited,https://www.nipponpaint.co.in,MCA Master Data / Industry Directory,decorative_industrial_automotive_major,Sriperumbudur,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+89,Gemini Paints Private Limited,https://www.geminipaints.in,MCA Master Data / Industry Directory,wood_coatings,Bengaluru,Karnataka,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+90,Anupam Paints Private Limited,https://www.anupampaints.com,MCA Master Data / Industry Directory,industrial_protective,Ahmedabad,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+91,Apex Paints Private Limited,https://www.apexpaints.in,MCA Master Data / Industry Directory,decorative_architectural,Pune,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+92,Star Paints and Chemicals Private Limited,https://www.starpaints.com,MCA Master Data / Industry Directory,marine_protective,Thane,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+93,Crown Paints Private Limited,https://www.crownpaintsindia.com,MCA Master Data / Industry Directory,industrial_coatings,Thane,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+94,Delta Paints Private Limited,https://www.deltapaints.co.in,MCA Master Data / Industry Directory,industrial_protective,Ankleshwar,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+95,Polymer Coatings Private Limited,https://www.polymercoatings.in,MCA Master Data / Industry Directory,epoxy_flooring_protective,Bengaluru,Karnataka,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+96,National Paints & Allied Industries Private Limited,https://www.nationalpaintsindia.com,MCA Master Data / Industry Directory,industrial_primers_enamels,Hyderabad,Telangana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+97,Deccan Paints & Chemicals Private Limited,https://www.deccanpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Hyderabad,Telangana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+98,Bhilwara Paints Private Limited,https://www.bhilwarapaints.com,MCA Master Data / Industry Directory,decorative_primers,Jaipur,Rajasthan,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+99,Maruti Paints and Chemicals Private Limited,https://www.marutipaintsalwar.com,MCA Master Data / Industry Directory,decorative_architectural,Alwar,Rajasthan,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+100,Kavveri Paints Private Limited,https://www.kavveripaints.com,MCA Master Data / Industry Directory,decorative_emulsions,Chennai,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+101,Kaveri Resins & Coatings Private Limited,https://www.kaveriresins.com,MCA Master Data / Industry Directory,industrial_resins_coatings,Ranipet,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+102,Supercoat Polymers Private Limited,https://www.supercoatpolymers.com,MCA Master Data / Industry Directory,powder_coatings,Pune,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+103,Prism Powder Coatings Private Limited,https://www.prismpowder.in,MCA Master Data / Industry Directory,powder_coatings,Vadodara,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+104,Lotus Paints Private Limited,https://www.lotuspaints.co.in,MCA Master Data / Industry Directory,industrial_synthetic_enamels,Kolkata,West Bengal,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+105,Dover Coatings Private Limited,https://www.dovercoatings.com,MCA Master Data / Industry Directory,marine_protective,Howrah,West Bengal,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+106,CICO Technologies Limited,https://www.cicogroup.com,MCA Master Data / Industry Directory,construction_chemicals_waterproofing,Kalyani,West Bengal,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+107,Choksey Chemicals Private Limited,https://www.chokseychem.com,MCA Master Data / Industry Directory,construction_sealants_waterproofing,Navi Mumbai,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+108,Perma Construction Aids Private Limited,https://www.permaindia.com,MCA Master Data / Industry Directory,waterproofing_protective,Sarigam,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+109,Maruti Resins & Coatings Private Limited,https://www.marutiresins.com,MCA Master Data / Industry Directory,industrial_resins_coatings,Ludhiana,Punjab,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+110,Shree Krishna Paints Private Limited,https://www.shreekrishnapaints.com,MCA Master Data / Industry Directory,decorative_architectural,Bhopal,Madhya Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+111,Indore Paints & Chemicals Private Limited,https://www.indorepaints.com,MCA Master Data / Industry Directory,industrial_tractor_coatings,Pithampur,Madhya Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+112,Khyati Paints Private Limited,https://www.khyatipaints.com,MCA Master Data / Industry Directory,industrial_heavy_duty,Ahmedabad,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+113,Duralac Paints Private Limited,https://www.duralacpaints.com,MCA Master Data / Industry Directory,wood_insulating_varnishes,Thane,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+114,Bright Paints & Chemicals Private Limited,https://www.brightpaints.in,MCA Master Data / Industry Directory,decorative_architectural,Ghaziabad,Uttar Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+115,Regal Paints Private Limited,https://www.regalpaints.co.in,MCA Master Data / Industry Directory,industrial_primers_enamels,Kanpur,Uttar Pradesh,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+116,Galaxy Paints Private Limited,https://www.galaxypaints.in,MCA Master Data / Industry Directory,industrial_baking_enamels,Gurugram,Haryana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+117,Pooja Paints & Chemicals Private Limited,https://www.poojapaints.com,MCA Master Data / Industry Directory,powder_coatings_industrial,Sonipat,Haryana,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+118,Canara Paints Private Limited,https://www.canarapaints.com,MCA Master Data / Industry Directory,marine_wood_coatings,Mangalore,Karnataka,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+119,Kelvin Paints Private Limited,https://www.kelvinpaints.com,MCA Master Data / Industry Directory,decorative_architectural,Kochi,Kerala,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+120,United Paints & Coatings Private Limited,https://www.unitedpaintsindia.com,MCA Master Data / Industry Directory,machine_tool_industrial,Coimbatore,Tamil Nadu,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+121,Ganesh Paints and Chemicals Private Limited,https://www.ganeshpaints.com,MCA Master Data / Industry Directory,auto_refinish_primers,Aurangabad,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+122,Kewalram Paints Private Limited,https://www.kewalrampaints.com,MCA Master Data / Industry Directory,anticorrosive_tank_linings,Panoli,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+123,Surya Paints & Resins Private Limited,https://www.suryapaintsvapi.com,MCA Master Data / Industry Directory,resins_industrial_coatings,Vapi,Gujarat,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+124,Zenith Surface Coatings Private Limited,https://www.zenithcoatings.in,MCA Master Data / Industry Directory,coil_coatings_specialty,Palghar,Maharashtra,VERIFIED_MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+125,Asian Paints Ltd,https://www.screener.in/company/ASIANPAINT/consolidated/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+126,Berger Paints India Ltd,https://www.screener.in/company/BERGEPAINT/consolidated/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+127,Kansai Nerolac Paints Ltd,https://www.screener.in/company/KANSAINER/consolidated/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+128,Indigo Paints Ltd,https://www.screener.in/company/INDIGOPNTS/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+129,Sirca Paints India Ltd,https://www.screener.in/company/SIRCA/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+130,Shalimar Paints Ltd,https://www.screener.in/company/SHALPAINTS/consolidated/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+131,Kamdhenu Ventures Ltd,https://www.screener.in/company/KAMOPAINTS/consolidated/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+132,Retina Paints Ltd,https://www.screener.in/company/543902/,Screener.in API [q=paints],paints,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+133,Siddhika Coatings Ltd,https://www.screener.in/company/SIDDHIKA/,Screener.in API [q=coatings],coatings,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+134,Metal Coatings (India) Ltd,https://www.screener.in/company/531810/,Screener.in API [q=coatings],coatings,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+135,Organic Coatings Ltd,https://www.screener.in/company/531157/,Screener.in API [q=coatings],coatings,India,Pan-India,MANUFACTURER,DISCOVERED,2026-10-29 17:33:11
+136,Jyoti Resins and Adhesives Ltd,https://www.screener.in/company/JYOTIRES/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
+137,Sreechem Resins Ltd,https://www.screener.in/company/514248/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
+138,Refnol Resins & Chemicals Ltd(Merged),https://www.screener.in/company/id/2710/consolidated/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
+139,Allied Resins & Chemicals Ltd(merged),https://www.screener.in/company/ALLIEDRES/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
+140,Binaca Synthetic Resins Ltd,https://www.screener.in/company/514344/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
+141,Avikem Resins Ltd,https://www.screener.in/company/523784/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
+142,Rajasthan Polymers & Resins Ltd (Merged),https://www.screener.in/company/RAJASPOLY/,Screener.in API [q=resins],resins,India,Pan-India,RESIN_RAW_MATERIAL,DISCOVERED,2026-10-29 17:33:11
